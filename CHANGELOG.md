@@ -7,7 +7,7 @@ x.x.x Release notes (yyyy-MM-dd)
 
 ### Enhancements
 
-* None.
+* Prohibit to create or add objects of a class without properties to a Realm.
 
 ### Bugfixes
 
